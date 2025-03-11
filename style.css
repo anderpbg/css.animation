@@ -1,4 +1,4 @@
-@keyframes mironshoh{
+/* {
     from{background-color: black;}
     to{background-color: orange}
 }
@@ -9,6 +9,28 @@
     height: 200px;
     background-color: black;
 
-    animation-name: mironshoh;
+    animation-name: abduaz1z;
     animation-duration: 6s;
+} */
+
+
+
+@keyframes abduaziz{
+    0%{width: 0%;}
+    25%{width: 25%; height: 500px;}
+    50%{width: 50%; height: 100px;}
+    75%{width: 75%; height: 800px;}
+    100%{width: 100%;}
+    
 }
+
+
+.box{
+    width: 400px;
+    height: 200px;
+    background-color: black;
+
+    animation-name: abduaziz;
+    animation-duration: 5s;
+}
+
