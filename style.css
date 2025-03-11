@@ -1,0 +1,14 @@
+@keyframes mironshoh{
+    from{background-color: black;}
+    to{background-color: orange}
+}
+
+
+.box{
+    width: 400px;
+    height: 200px;
+    background-color: black;
+
+    animation-name: mironshoh;
+    animation-duration: 6s;
+}
